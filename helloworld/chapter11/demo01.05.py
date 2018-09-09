@@ -5,11 +5,17 @@ import sqlite3
 conn = sqlite3.connect('mrsoft.db')
 
 # 创建一个cursor
-cursor = conn.cursor();
+cursor = conn.cursor()
 
-# 执行一条sql语句,创建user表
-cursor.execute('create table user (id int(10) primary key ,name varchar(20))')
+# 更新
+cursor.execute('delete from user where id = ?', (1,))
+cursor.execute('select * from user')
+# 获取查询结果
+result = cursor.fetchall()  # 获取全部
+print(result)
 # 关闭游标
 cursor.close()
+# 提交事务
+conn.commit()
 # 关闭连接
 conn.close()

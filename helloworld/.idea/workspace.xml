@@ -6,20 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2822c3a-fa01-427c-b50b-781357217345" name="Default" comment="learning">
-      <change afterPath="$PROJECT_DIR$/chapter10/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo02.02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo02.03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo02.04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo02.05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo02.06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo03.01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo03.02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo03.03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo03.04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/demo03.05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/demo01.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/demo01.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/demo01.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/demo01.04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/demo01.05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter11/demo01.01.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter11/demo01.01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,51 +23,52 @@
     <session id="-1510519944">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
-          <entry key="project.open.time.3" value="6" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.3" value="8" />
           <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="9" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="py" value="21012" />
+          <entry key="py" value="21632" />
           <entry key="txt" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="131" />
-          <entry key="Python" value="21012" />
+          <entry key="Python" value="21632" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="db" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="py" value="159" />
+          <entry key="py" value="163" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="159" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="163" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter10/demo03.04.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -83,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter10/demo03.05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            <state relative-caret-position="570">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
               <folding>
                 <marker date="1536378572420" expanded="true" signature="47:675" ph="..." />
                 <marker date="1536378572420" expanded="true" signature="242:675" ph="..." />
@@ -93,8 +86,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter11/demo01.01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter11/demo01.02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter11/demo01.03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter11/demo01.04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter11/demo01.05.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -121,9 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter07/demo01.12.py" />
-        <option value="$PROJECT_DIR$/chapter07/demo01.13.py" />
-        <option value="$PROJECT_DIR$/chapter07/demo02.01.py" />
         <option value="$PROJECT_DIR$/chapter07/demo02.02.py" />
         <option value="$PROJECT_DIR$/chapter07/demo02.04.py" />
         <option value="$PROJECT_DIR$/chapter07/demo02.03.py" />
@@ -172,6 +198,9 @@
         <option value="$PROJECT_DIR$/chapter10/demo03.04.py" />
         <option value="$PROJECT_DIR$/chapter10/demo03.05.py" />
         <option value="$PROJECT_DIR$/chapter11/demo01.01.py" />
+        <option value="$PROJECT_DIR$/chapter11/demo01.02.py" />
+        <option value="$PROJECT_DIR$/chapter11/demo01.03.py" />
+        <option value="$PROJECT_DIR$/chapter11/demo01.04.py" />
       </list>
     </option>
   </component>
@@ -220,16 +249,16 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter10" />
+      <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter02" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter11" />
       <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter10" />
       <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter09" />
       <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter08" />
       <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter07" />
-      <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter06" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter10" />
-      <recent name="C:\Users\zxz\PycharmProjects\helloworld\chapter02" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -244,8 +273,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo03.05">
-    <configuration name="demo03.01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo01.05">
+    <configuration name="demo01.01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloworld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +282,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/demo03.01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter11/demo01.01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03.02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo01.02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloworld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,11 +303,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/demo03.02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter11/demo01.02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03.03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo01.03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloworld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,11 +324,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/demo03.03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter11/demo01.03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +337,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03.04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo01.04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloworld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,11 +345,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/demo03.04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter11/demo01.04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,7 +358,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03.05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo01.05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloworld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,11 +366,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter10/demo03.05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter11/demo01.05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,19 +380,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo03.01" />
-      <item itemvalue="Python.demo03.02" />
-      <item itemvalue="Python.demo03.03" />
-      <item itemvalue="Python.demo03.04" />
-      <item itemvalue="Python.demo03.05" />
+      <item itemvalue="Python.demo01.01" />
+      <item itemvalue="Python.demo01.02" />
+      <item itemvalue="Python.demo01.03" />
+      <item itemvalue="Python.demo01.04" />
+      <item itemvalue="Python.demo01.05" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo03.05" />
-        <item itemvalue="Python.demo03.04" />
-        <item itemvalue="Python.demo03.03" />
-        <item itemvalue="Python.demo03.02" />
-        <item itemvalue="Python.demo03.01" />
+        <item itemvalue="Python.demo01.05" />
+        <item itemvalue="Python.demo01.03" />
+        <item itemvalue="Python.demo01.04" />
+        <item itemvalue="Python.demo01.02" />
+        <item itemvalue="Python.demo01.01" />
       </list>
     </recent_temporary>
   </component>
@@ -427,19 +456,25 @@
       <option name="project" value="LOCAL" />
       <updated>1536336457121</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="learning">
+      <created>1536423407100</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1536423407100</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.30401736" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.30401736" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,44 +508,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter06/demo01.07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter06/demo01.06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter06/demo01.05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter08/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter08/compute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter08/bmi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -743,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <marker date="1536375535210" expanded="true" signature="28:33" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,9 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,9 +757,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter10/demo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/demo.py" />
     <entry file="file://$PROJECT_DIR$/chapter10/demo02.06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -803,14 +792,14 @@
     <entry file="file://$PROJECT_DIR$/chapter10/demo03.04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter10/demo03.05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        <state relative-caret-position="570">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding>
             <marker date="1536378572420" expanded="true" signature="47:675" ph="..." />
             <marker date="1536378572420" expanded="true" signature="242:675" ph="..." />
@@ -818,7 +807,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11/mrsoft.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter11/demo01.01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11/demo01.02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11/demo01.03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11/demo01.04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11/demo01.05.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
