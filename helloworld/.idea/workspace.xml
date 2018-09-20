@@ -6,10 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2822c3a-fa01-427c-b50b-781357217345" name="Default" comment="learning">
-      <change afterPath="$PROJECT_DIR$/chapter14/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/demo01.01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter14/demo02.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/web_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter14/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,71 +23,94 @@
     <session id="-1510519944">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="35" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="10" />
-          <entry key="project.open.time.4" value="8" />
-          <entry key="project.open.time.5" value="11" />
-          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.4" value="9" />
+          <entry key="project.open.time.5" value="12" />
+          <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="html" value="227" />
-          <entry key="py" value="23610" />
+          <entry key="html" value="1071" />
+          <entry key="py" value="23920" />
           <entry key="txt" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="227" />
+          <entry key="HTML" value="1071" />
           <entry key="PLAIN_TEXT" value="131" />
-          <entry key="Python" value="23610" />
+          <entry key="Python" value="23920" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="db" value="1" />
-          <entry key="html" value="2" />
+          <entry key="html" value="4" />
           <entry key="jpg" value="1" />
-          <entry key="py" value="181" />
+          <entry key="py" value="184" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="4" />
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="181" />
+          <entry key="Python" value="184" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter15/demo01.01.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter15/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="513">
+              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter14/test.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter15/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="228">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter14/demo02.01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter15/web_service.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
+                <marker date="1537193620008" expanded="true" signature="130:135" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,9 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter09/division_apple2.py" />
-        <option value="$PROJECT_DIR$/chapter09/division_apple3.py" />
-        <option value="$PROJECT_DIR$/chapter09/division_apple4.py" />
         <option value="$PROJECT_DIR$/chapter10/antmanor_message.py" />
         <option value="$PROJECT_DIR$/chapter10/demo01.01.py" />
         <option value="$PROJECT_DIR$/chapter10/demo01.02.py" />
@@ -163,8 +185,11 @@
         <option value="$PROJECT_DIR$/chapter14/demo01.11.py" />
         <option value="$PROJECT_DIR$/chapter14/demo01.12.py" />
         <option value="$PROJECT_DIR$/chapter15/demo01.01.py" />
-        <option value="$PROJECT_DIR$/chapter15/index.html" />
         <option value="$PROJECT_DIR$/chapter14/test.py" />
+        <option value="$PROJECT_DIR$/chapter14/demo02.01.py" />
+        <option value="$PROJECT_DIR$/chapter15/index.html" />
+        <option value="$PROJECT_DIR$/chapter15/contact.html" />
+        <option value="$PROJECT_DIR$/chapter15/web_service.py" />
       </list>
     </option>
   </component>
@@ -188,11 +213,6 @@
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
@@ -473,7 +493,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
@@ -515,27 +535,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter09/division_apple3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter09/division_apple4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter10/antmanor_message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Program Files/Anaconda/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -825,20 +824,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter14/test.py" />
     <entry file="file://$PROJECT_DIR$/chapter15/demo01.01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="19">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14/test.py">
+    <entry file="file://$PROJECT_DIR$/chapter15/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="513">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter14/demo02.01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/web_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+            <marker date="1537193620008" expanded="true" signature="130:135" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
