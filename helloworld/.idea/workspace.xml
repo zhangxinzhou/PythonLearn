@@ -6,12 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2822c3a-fa01-427c-b50b-781357217345" name="Default" comment="learning">
-      <change afterPath="$PROJECT_DIR$/chapter14/demo02.01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/web_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter14/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter15/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,14 +18,14 @@
     <session id="-1510519944">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="36" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="10" />
           <entry key="project.open.time.4" value="9" />
-          <entry key="project.open.time.5" value="12" />
+          <entry key="project.open.time.5" value="13" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="39" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -105,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter15/web_service.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#15#28#0" expanded="true" />
                 <marker date="1537193620008" expanded="true" signature="130:135" ph="..." />
@@ -194,8 +189,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="485" />
-    <option name="y" value="72" />
+    <option name="x" value="557" />
+    <option name="y" value="175" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -489,11 +484,25 @@
       <option name="project" value="LOCAL" />
       <updated>1536759382626</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="learning">
+      <created>1537451844572</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537451844572</updated>
+    </task>
+    <task id="LOCAL-00015" summary="learning">
+      <created>1537451858604</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537451858604</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
@@ -851,8 +860,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter15/web_service.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#15#28#0" expanded="true" />
             <marker date="1537193620008" expanded="true" signature="130:135" ph="..." />
