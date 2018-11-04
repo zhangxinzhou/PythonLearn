@@ -87,7 +87,7 @@ if __name__ == "__main__":
     print(os.path.realpath(__file__))
     print(os.path.split(os.path.realpath(__file__)))
     print(os.getcwd())
-    print(os.getcwd().replace('\\','/'))
+    print(os.getcwd().replace('\\', '/'))
     print("=====================路径信息=======================")
 
     main()
