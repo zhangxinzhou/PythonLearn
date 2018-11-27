@@ -1,0 +1,5 @@
+#在当前文件夹次打开cmd
+
+.\venv\Scripts\activate   # 进入虚拟环境virtualenv
+
+python  .\Flask\文件名.py
